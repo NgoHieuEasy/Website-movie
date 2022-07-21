@@ -9,3 +9,8 @@ If you want use project. Please follow me:
  +Final go into folder: admin/src/firebase.js and replace your firebaseConfig(create project firebase and  Get start "Store" and connect firebase with your project by reaplace firebaseConfig in project "You can watch how to connect firebase with react in Youtobe").
 
  Thank you for reading this far.
+ 
+Demo proeject:
+
+https://user-images.githubusercontent.com/109297277/180179315-765b73ef-0c6c-422b-adb5-2b311ea8152c.mp4
+
